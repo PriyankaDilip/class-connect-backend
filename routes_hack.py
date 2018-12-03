@@ -1,6 +1,6 @@
 import json
 from db_course import db, Course
-from db_hours import db, Hours
+#from db_hours import db, Hours
 from db_votes import db, Cand
 from db_security import db, User
 from flask import Flask, request
